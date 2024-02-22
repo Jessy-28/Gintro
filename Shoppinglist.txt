@@ -10,3 +10,4 @@ Spinach
 Cheese
 Pasta
 Tomatoes
+Rice
