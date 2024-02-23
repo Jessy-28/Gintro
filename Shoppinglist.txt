@@ -11,3 +11,5 @@ Cheese
 Pasta
 Tomatoes
 Rice
+Curry block
+carrots
